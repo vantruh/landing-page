@@ -12,6 +12,7 @@ body {
     flex-direction: column;
     background-color: #1F2937;
     padding:20px 200px;
+    padding-bottom:100px;
 }
 
 .header {
@@ -46,10 +47,11 @@ ul a {
 .hero-content {
     display:flex;
     align-items: center;
+    padding-top:50px;
 }
 
 .hero-content img {
-    height:300px;
+    height:350px;
     margin-right:auto;
 }
 
