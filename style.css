@@ -126,6 +126,27 @@ h2 {
 }
 
 .card p {
-    font-size:16px;
-    margin-top:20px;
+    font-size: 16px;
+    margin-top: 20px;
+}
+
+.third-section {
+    display: flex;
+    flex-direction: column;
+    padding: 40px 450px;
+    align-items: center;
+    background-color: #E5E7EB;
+}
+
+#quote-by-coolguy {
+    font-size: 36px;
+    font-weight: lighter;
+    font-style: italic;
+}
+
+#coolguy {
+    margin-top:0;
+    align-self: flex-end;
+    font-size: 24px;
+    font-weight: bolder;
 }
