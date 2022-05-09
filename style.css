@@ -150,3 +150,39 @@ h2 {
     font-size: 24px;
     font-weight: bolder;
 }
+
+.action-call {
+    display:flex;
+    margin:100px 300px;
+    background-color: #3882F6;
+    align-items: center;
+    border-radius:10px;
+}
+
+.action-call-info {
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    padding:24px 80px;
+}
+
+.action-call h4 {
+    font-size: 24px;
+    color:#F9FAF8;
+}
+
+.action-call-info p {
+    font-size:18px;
+    color:#E5E7EB;
+    margin-top:-25px;
+}
+
+.action-call input {
+    margin:auto;
+    font-size: 18px;
+    background-color: #3882F6;
+    border:2px solid #F9FAF8;
+    border-radius:10px;
+    padding:10px 24px;
+    color:#F9FAF8;
+}
